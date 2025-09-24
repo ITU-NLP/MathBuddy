@@ -8,16 +8,16 @@ ___
 [![CC BY-SA 4.0](https://img.shields.io/badge/License%20Dataset-CC%20BY--SA%204.0-lightgrey.svg)][cc-by-sa]
 [![Demo Video](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://youtu.be/ZUjgmOw9GM0)
 
-Public repository of the MathBuddy project.
+The public repository for the MathBuddy project, which aims to develop an emotionally aware LLM-powered math tutor.
+This project is maintained by a team of three researchers, Debanjana Kar, Leopold Böss, and Dacia Braca, under the supervision of Sebastian Maximilian Dennerlein, Nina Christine Hubig, Philipp Wintersberger, and Yufang Hou.
 
-This project has been conducted by a team of four researches, A, B, C, and D, under the supervision of E, F, G, and H.
-
-Link to the showcase video: https://youtu.be/ZUjgmOw9GM0
+For further details, please refer to the associated [paper](https://arxiv.org/abs/2508.19993) or the showcase [video](https://youtu.be/ZUjgmOw9GM0).
 
 
 ## Installation
 
-For installation instructions see:
+The project provides two stand-alone components, a frontend and a backend.
+For installation instructions, see the README files of the respective element:
 - [Frontend Instructions](./frontend/README.md)
 - [Backend Instructions](./backend/README.md)
 
